@@ -1,0 +1,22 @@
+# File Organizer - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Rich library for beautiful terminal output
+rich>=13.0.0
+
+# Optional: For better progress bars and styling
+# The script works without these but they enhance the experience
+colorama>=0.4.6
+
+# Standard library modules (no installation needed):
+# - os
+# - sys
+# - json
+# - shutil
+# - argparse
+# - logging
+# - pathlib
+# - datetime
+# - typing
+# - collections
+# - time
